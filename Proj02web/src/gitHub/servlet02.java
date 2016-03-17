@@ -1,3 +1,4 @@
+
  package gitHub;
 
 import java.io.IOException;
@@ -28,6 +29,7 @@ public class servlet02 extends HttpServlet {
 
 	
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
 	}
 
 }
