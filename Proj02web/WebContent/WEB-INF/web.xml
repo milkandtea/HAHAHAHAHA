@@ -16,7 +16,7 @@
  </servlet-mapping> 
  
  <servlet> 
-	  <servlet-name>servlet1111</servlet-name> 
+	  <servlet-name>servlet11111</servlet-name> 
 	  <servlet-class>gitHub.servlet1</servlet-class> 
  </servlet>
 
