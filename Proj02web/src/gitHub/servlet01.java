@@ -16,7 +16,7 @@ public class servlet01 extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		PrintWriter out = response.getWriter();
 		
-		out.print("<title>Hello,sucker! </title>");
+		out.print("<title>Hello,world! </title>");
 		out.print("<html>");
 		out.print("<head>");
 		out.print("</head>");
