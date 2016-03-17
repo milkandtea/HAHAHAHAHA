@@ -21,11 +21,11 @@
  </servlet>
 
  <servlet>
- 	<servlet-name>servlet2</servlet-name>
+ 	<servlet-name>servlet222</servlet-name>
  	<servlet-class>gitHub.servlet02</servlet-class>
  </servlet>
  <servlet-mapping>
- 	<servlet-name>servlet2</servlet-name>
+ 	<servlet-name>servlet222</servlet-name>
  	<url-pattern>servlet02</url-pattern>
  </servlet-mapping>
 
