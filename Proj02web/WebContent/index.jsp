@@ -8,8 +8,13 @@
 </head>
 <body>
 
+
 <a href="/Proj02web/servlet01">to servlet!!!</a>
 <a href="/Proj02web/servlet02">to servlet22222222</a>
+<a href="/Proj02web/servlet02">to servlet!!!</a>
+
+<H1>張博翔修改</H1>
+
 
 </body>
 </html>
