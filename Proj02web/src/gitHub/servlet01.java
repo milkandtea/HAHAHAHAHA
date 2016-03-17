@@ -21,12 +21,7 @@ public class servlet01 extends HttpServlet {
 		out.print("<head>");
 		out.print("</head>");
 		out.print("</body>");
-		out.print("<h3>Hello,world! </h3>");
-		out.print("</body>");
-		out.print("<title>Hello,world2! </title>");
-		out.print("<html>");
-		out.print("<head>");
-		out.print("</head>");
+		System.out.println("hahahahahaha");
 		out.print("</body>");
 		out.print("<h3>Hello,world! </h3>");
 		out.print("</body>");
