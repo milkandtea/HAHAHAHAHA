@@ -24,6 +24,13 @@ public class servlet02 extends HttpServlet {
 		out.print("</body>");
 		out.print("<h3>Hello,sucker!!!!!! </h3>");
 		out.print("</body>");
+		out.print("<title>Hello,sucker! </title>");
+		out.print("<html>");
+		out.print("<head>");
+		out.print("</head>");
+		out.print("</body>");
+		out.print("<h3>Hello,sucker!!!!!! </h3>");
+		out.print("</body>");
 
 	}
 
