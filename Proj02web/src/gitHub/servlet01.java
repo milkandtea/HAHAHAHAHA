@@ -16,12 +16,12 @@ public class servlet01 extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		PrintWriter out = response.getWriter();
 		
-		out.print("<title>Hello,sucker! </title>");
+		out.print("<title>Hello,world2! </title>");
 		out.print("<html>");
 		out.print("<head>");
 		out.print("</head>");
 		out.print("</body>");
-		out.print("<h3>Hello,sucker2! </h3>");
+		out.print("<h3>Hello,world! </h3>");
 		out.print("</body>");
 
 	}
