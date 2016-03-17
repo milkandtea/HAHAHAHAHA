@@ -11,7 +11,7 @@
   </welcome-file-list>
   
   <servlet-mapping> 
-	  <servlet-name>servlet1</servlet-name> 
+	  <servlet-name>servlet111</servlet-name> 
 	  <url-pattern>/Proj02web/servlet01</url-pattern> 
  </servlet-mapping> 
  
