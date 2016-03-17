@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<a href="/Proj02web/servlet01">to servlet!!!</a>
+<a href="/Proj02web/servlet02">to servlet!!!</a>
 
 <H1>鄭士均修改</H1>
 <H1>鄭士均修改</H1>

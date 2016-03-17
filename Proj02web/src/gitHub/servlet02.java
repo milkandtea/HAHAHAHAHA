@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 @WebServlet("/servlet01")
-public class servlet01 extends HttpServlet {
+public class servlet02 extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
@@ -21,7 +21,7 @@ public class servlet01 extends HttpServlet {
 		out.print("<head>");
 		out.print("</head>");
 		out.print("</body>");
-		out.print("<h3>Hello,sucker2! </h3>");
+		out.print("<h3>Hello,sucker!!!!!! </h3>");
 		out.print("</body>");
 
 	}
