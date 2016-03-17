@@ -9,7 +9,7 @@
 <body>
 
 <a href="/Proj02web/servlet01">to servlet!!!</a>
-
+<a href="/Proj02web/servlet02">to servlet22222222</a>
 
 </body>
 </html>
